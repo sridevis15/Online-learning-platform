@@ -1,5 +1,13 @@
 # ONLINE LEARNING PLATFORM USING MERN STACK
 
+# QUICK LINKS
+
+- **Video Demo Link :** https://drive.google.com/drive/folders/1TaSdo41vieXwtbGEPv7Fpyv5KeFz46aL?usp=sharing
+  
+- **Screenshots of installations & project execution :** https://github.com/sridevis15/Online-learning-platform/blob/main/Screenshots%20of%20Installation%20and%20Execution.pdf
+
+- **Project Documentation :** https://github.com/sridevis15/Online-learning-platform/blob/main/OLP%20Project%20Documentation.pdf
+
 # INTRODUCTION
 
 An **Online Learning Platform (OLP)** is a digital platform that provides a variety of tools and resources to facilitate learning and education over the internet. These platforms have become increasingly popular, especially in recent years, as they offer flexibility and accessibility for learners of all ages and backgrounds. Here are some key features and a description of an online learning platform:
@@ -198,7 +206,3 @@ The OLP app will be accessible at http://localhost:5172
 The conclusion of this project focuses on integrating a full-stack application, combining a React front end with a Node.js and Express back end, connected to a MongoDB database. By implementing modular code structure, secure authentication, and efficient data handling, this project successfully delivers an online learning platform (OLP) that allows different user roles—admin, teacher, and student—to manage and access course-related functionalities. Through the integration of various tools and libraries like Axios for HTTP requests, Multer for handling file uploads, JWT for authentication, and Mongoose for database management, the platform provides a seamless and responsive user experience. 
 
 Additionally, security measures, such as using bcryptjs for password hashing and CORS for controlling cross- origin access, enhance the robustness and integrity of the system. In conclusion, this project showcases an effective implementation of a scalable and interactive learning management system by utilizing modern web development practices and technologies. It serves as a foundation for further enhancements, such as incorporating additional features, refining the user interface, or optimizing performance for large-scale deployment.
-
-# SCREENSHOTS OF THE INSTALLATIONS & PROJECT EXECUTIONS
-
-**Doc Link :** https://github.com/sridevis15/Online-learning-platform/blob/main/Screenshots%20of%20Installation%20and%20Execution.pdf
