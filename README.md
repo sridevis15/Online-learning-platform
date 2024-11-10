@@ -198,3 +198,7 @@ The OLP app will be accessible at http://localhost:5172
 The conclusion of this project focuses on integrating a full-stack application, combining a React front end with a Node.js and Express back end, connected to a MongoDB database. By implementing modular code structure, secure authentication, and efficient data handling, this project successfully delivers an online learning platform (OLP) that allows different user roles—admin, teacher, and student—to manage and access course-related functionalities. Through the integration of various tools and libraries like Axios for HTTP requests, Multer for handling file uploads, JWT for authentication, and Mongoose for database management, the platform provides a seamless and responsive user experience. 
 
 Additionally, security measures, such as using bcryptjs for password hashing and CORS for controlling cross- origin access, enhance the robustness and integrity of the system. In conclusion, this project showcases an effective implementation of a scalable and interactive learning management system by utilizing modern web development practices and technologies. It serves as a foundation for further enhancements, such as incorporating additional features, refining the user interface, or optimizing performance for large-scale deployment.
+
+# SCREENSHOTS OF THE INSTALLATIONS & PROJECT EXECUTIONS
+
+**Doc Link :** https://github.com/sridevis15/Online-learning-platform/blob/main/Screenshots%20of%20Installation%20and%20Execution.pdf
