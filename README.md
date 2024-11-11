@@ -8,6 +8,8 @@
 
 - **Project Documentation :** https://github.com/sridevis15/Online-learning-platform/blob/main/OLP%20Project%20Documentation.pdf
 
+- **Project Presentation (PPT) :** https://github.com/sridevis15/Online-learning-platform/blob/main/NM%20OLP%20Project%20Presentation.pdf
+
 # INTRODUCTION
 
 An **Online Learning Platform (OLP)** is a digital platform that provides a variety of tools and resources to facilitate learning and education over the internet. These platforms have become increasingly popular, especially in recent years, as they offer flexibility and accessibility for learners of all ages and backgrounds. Here are some key features and a description of an online learning platform:
