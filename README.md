@@ -199,8 +199,6 @@ On completing the development part, we then run the application one last time to
   - npm install
   - npm start
 
-The OLP app will be accessible at http://localhost:5172
-
 # CONCLUSION
 
 The conclusion of this project focuses on integrating a full-stack application, combining a React front end with a Node.js and Express back end, connected to a MongoDB database. By implementing modular code structure, secure authentication, and efficient data handling, this project successfully delivers an online learning platform (OLP) that allows different user roles—admin, teacher, and student—to manage and access course-related functionalities. Through the integration of various tools and libraries like Axios for HTTP requests, Multer for handling file uploads, JWT for authentication, and Mongoose for database management, the platform provides a seamless and responsive user experience. 
