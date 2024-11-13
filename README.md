@@ -6,7 +6,7 @@
   
 - **Screenshots of installations & project execution :** https://github.com/sridevis15/Online-learning-platform/blob/main/Screenshots%20of%20Installation%20and%20Execution.pdf
 
-- **Project Documentation :** https://github.com/sridevis15/Online-learning-platform/blob/main/OLP%20Project%20Documentation.pdf
+- **Project Documentation :** https://github.com/sridevis15/Online-learning-platform/blob/main/OLP%20Project%20Final%20Documentation.pdf
 
 - **Project Presentation (PPT) :** https://github.com/sridevis15/Online-learning-platform/blob/main/NM%20OLP%20Project%20Presentation.pdf
 
