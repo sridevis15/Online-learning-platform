@@ -2,7 +2,7 @@
 
 # QUICK LINKS
 
-- **Video Demo Link :** https://drive.google.com/file/d/1n2PcdCdaP-p_hvV3JMoqLepB3Q6GrMuX/view?usp=drive_link 
+- **Video Demo Link :** https://drive.google.com/file/d/1FEk3u7wON9Sw7EdYsulVkLisaevENBk_/view?usp=drive_link  
   
 - **Screenshots of installations & project execution :** https://github.com/sridevis15/Online-learning-platform/blob/main/Screenshots%20of%20Installation%20and%20Execution.pdf
 
